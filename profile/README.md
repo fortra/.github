@@ -14,7 +14,7 @@ Giving back is an important part of the Fortra culture. Our way to give back is 
 If you're looking to get involved. You can check [Fortra](https://www.fortra.com)'s Open Source projects here:
 * Offensive Security
   * [Impacket](https://github.com/fortra/impacket)
-  * [nanodump](https://github.com/Helpsystems/nanodump)
+  * [nanodump](https://github.com/fortra/nanodump)
   * [Cobalt Strike Kits](https://github.com/cobalt-strike)
   * [Outflank Open Source tools](https://github.com/outflanknl)
 * Vulnerability Management
